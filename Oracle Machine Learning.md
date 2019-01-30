@@ -42,7 +42,7 @@
 ## 6. 입력 데이터에 대해 생각해보기
 데이터의 형태는 다양한다. 코드를 만들기 전에 다룰 데이터의 형태를 알아두는 것이 좋다.  다음은 일반적인 데이터 형식이다.
 
-* 원시 텍스트 - 국제적인 인코딩이 필요하면 UTF-8이 일반적이지만 한글의 경우 euckr
+* 원시 텍스트 - 한글의 경우 UTF-8, EUC-KR 인코딩을 사용하면 깨지지 않는다.
 * CSV
 * JSON
 * YAML
@@ -52,7 +52,7 @@
 * 이미지
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0OTc1MjQ2NiwxODk5NDUxNDQyLDcwMD
-gwMjE5OSwxMjc4MjM3MTUzLDE5MTg0MzExMTEsLTQwODg0Njcx
-NCwtMzg0NTc2OTcyLC0xNTIwNjQ4ODA0XX0=
+eyJoaXN0b3J5IjpbNDUzNTY2MDksMTg5OTQ1MTQ0Miw3MDA4MD
+IxOTksMTI3ODIzNzE1MywxOTE4NDMxMTExLC00MDg4NDY3MTQs
+LTM4NDU3Njk3MiwtMTUyMDY0ODgwNF19
 -->
