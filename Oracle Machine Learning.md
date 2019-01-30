@@ -44,7 +44,7 @@
 
 * 원시 텍스트 : 한글의 경우 UTF-8, EUC-KR 인코딩을 사용하면 깨지지 않는다. 사용하는 환경 및 OS에 맞게 인코딩 방식을 선택한다.
 * CSV
-* JSON : JavaScript Object Notation, 자바스크립트 
+* JSON : 가장 흔히 사용되는 데이터 포맷으로 키와 값이 한 쌍으로 이루어져 기계와 웹이 데이터를 주고받는 데 사용된다. 원래는 XML의 대안으로 디자인되었고 현재 많은 API가 JSON을 사용하여 요청하는 프로그램에 응답 데이터를 전송한다. 
 * YAML
 * XML
 * 스프레드시트
@@ -52,7 +52,7 @@
 * 이미지
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ2NzM2MDA0LDE4OTk0NTE0NDIsNzAwOD
-AyMTk5LDEyNzgyMzcxNTMsMTkxODQzMTExMSwtNDA4ODQ2NzE0
-LC0zODQ1NzY5NzIsLTE1MjA2NDg4MDRdfQ==
+eyJoaXN0b3J5IjpbLTE4NTUzOTY5NzYsMTg5OTQ1MTQ0Miw3MD
+A4MDIxOTksMTI3ODIzNzE1MywxOTE4NDMxMTExLC00MDg4NDY3
+MTQsLTM4NDU3Njk3MiwtMTUyMDY0ODgwNF19
 -->
